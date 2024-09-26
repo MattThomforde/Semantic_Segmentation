@@ -1,0 +1,11 @@
+torchvision==0.8
+torch
+numpy
+matplotlib==3.5
+tqdm
+opencv-python
+
+
+
+
+
